@@ -18,6 +18,6 @@ $ grunt
 ```
 How simple is that!
 
-## Requirments
+## Requirements
 Make sure that you have installed:
 [NodeJs](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/)
