@@ -20,4 +20,4 @@ How simple is that!
 
 ## Requirements
 Make sure that you have installed:
-[NodeJs](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/)
+[NodeJs](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/), [Grunt](http://gruntjs.com/), [Bower](http://bower.io/), [Sass](http://sass-lang.com/).
